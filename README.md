@@ -1,1 +1,3 @@
-# cnpt260-a1
+# cnpt260
+## Assignment 1
+## Haley Dickson
